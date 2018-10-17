@@ -1,2 +1,2 @@
 # funjavascriptcanvases
-A collection of interesting patterns and designs using javascript canvases.
+A website showcasing a collection of interesting patterns and designs using javascript canvases.
